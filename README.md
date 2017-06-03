@@ -1,4 +1,4 @@
-## [TC39 May 2017](https://github.com/tc39/agendas/blob/master/2017/05.md#agenda-items)
+# [TC39 May 2017](https://github.com/tc39/agendas/blob/master/2017/05.md#agenda-items)
 
 > Talks on Visions for the future of ECMAScript
 
